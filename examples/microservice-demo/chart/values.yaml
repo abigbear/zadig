@@ -17,5 +17,3 @@ Frontend:
 
 domain: demo.domain.com
 port: 20219
-
-registrySecret: ""
